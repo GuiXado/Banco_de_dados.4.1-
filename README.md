@@ -6,7 +6,7 @@ Consinuação da atividade https://github.com/GuiXado/Banco_de_dados.3
 Consultar:
 - Fazer uma consulta que retorne id, nome, email, username e caso a senha seja diferente de 123mudar, mostrar ******** (8 asteriscos), caso contrário, mostrar a própria senha.
   
-- Considerando que o projeto 10001 durou 15 dias, fazer uma consulta que mostre o nome do projeto, descrição, data, data_final do projeto realizado por usuário de e-mail <span>aparecido@empresa.com></span>
+- Considerando que o projeto 10001 durou 15 dias, fazer uma consulta que mostre o nome do projeto, descrição, data, data_final do projeto realizado por usuário de e-mail <span>aparecido@empresa.com</span>
 
 - Fazer uma consulta que retorne o nome e o email dos usuários que estão envolvidos no projeto de nome Auditoria
 
