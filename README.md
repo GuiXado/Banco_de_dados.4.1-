@@ -1,7 +1,7 @@
 # Banco_de_dados.4
 ## Select Case Subquery
 
-Consinuação da atividade https://github.com/GuiXado/Banco_de_dados.3
+Continuação da atividade https://github.com/GuiXado/Banco_de_dados.3
 
 Consultar:
 - Fazer uma consulta que retorne id, nome, email, username e caso a senha seja diferente de 123mudar, mostrar ******** (8 asteriscos), caso contrário, mostrar a própria senha.
